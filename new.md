@@ -1,3 +1,3 @@
 ## this is the header
-. hi
-.hello
+* hi
+*hello
