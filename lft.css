@@ -1,0 +1,119 @@
+body{
+margin:0px;
+background-color:grey;}
+.b1{
+background-color:white;
+}
+.b2{
+background-color:grey;
+}
+#university{
+width:100%;
+padding:0px;
+margin:0px;
+background-color:black;
+height:6%;
+}
+#u1{
+width:100%;
+padding:0px;
+margin:0px;
+background-color:black;
+height:6%;
+color:black;
+background-color:white;}
+
+#logo{
+padding-left:6%;}
+#switch{
+padding-left:90%;
+position:relative;
+top:-100%;
+cursor:pointer;
+
+}
+#dtu{
+display:inline;
+color:white;
+padding-left:1%;
+position: relative;
+bottom:12px;
+}
+#menus{
+width:5%;
+
+position:relative;
+top:-2%;
+text-align:center;
+}
+
+ul {
+list-style:none;
+word-spacing:4em;
+display:none;
+padding-bottom:5%;
+}
+#menuXinline{
+display:none;
+}
+#menu_inline
+{
+display:inline;
+}
+
+
+#menu_inlineR
+{
+display:block;
+}
+#menus{
+background-color:black;
+width:100%;
+
+color:white;
+}
+
+
+#menu{
+text-align:center;
+font-family:comic sans ms;
+letter-spacing:0.3em;
+cursor:pointer;
+}
+li> a:hover{
+background-color: #19c589;
+}
+
+li{
+display:inline-block;
+margin:0;
+}
+li> a{
+display:block;
+min-width:180px;
+text-align:center;
+line-height:50px;
+font-family:"comic sans ms";
+color:white;
+text-transform:capitalize;
+text-decoration:none;
+background: #E59563;
+}
+li> a:hover{
+background-color: #F1F1F1;}
+.slideshow-class-goes-here{
+width:99%;
+height:50%;
+border:4px solid red;
+background-image:url("LEADERS FOR TOMORROWlogo.gif");
+}
+#slideshow-class-goes-here1{
+background-image:url("IMG_20160123_011817276.jpg");
+}
+#slideshow-class-goes-here2{
+background-image:url("IMG_20160122_215814.jpg");
+}
+.content,.content1{
+height:40%;
+border:4px yellow dotted;
+}
